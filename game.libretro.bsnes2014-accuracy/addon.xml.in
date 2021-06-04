@@ -15,7 +15,11 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">bsnes2014-accuracy v094 (Accuracy)</summary>
-		<description lang="en_GB">Supported files: .sfc, .smc, .bml</description>
+		<description lang="en_GB">Libretro fork of bSNES. As close to upstream as possible.
+
+The &#34;Accuracy&#34; profile focuses on accuracy at the cost of performance.
+
+Supported files: .sfc, .smc, .bml</description>
 		<license></license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.bsnes2014-accuracy</source>
