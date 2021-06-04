@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: bsnes2014-accuracy core for kodi's retroplayer
- bsnes2014-accuracy core for kodi's retroplayer
+Description: Nintendo - SNES / SFC (bsnes 2014 Accuracy) core for kodi's retroplayer
+ Nintendo - SNES / SFC (bsnes 2014 Accuracy) core for kodi's retroplayer
