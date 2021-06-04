@@ -1,0 +1,1 @@
+# game.libretro.bsnes2014-accuracy
