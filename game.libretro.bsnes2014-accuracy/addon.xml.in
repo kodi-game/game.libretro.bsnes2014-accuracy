@@ -15,11 +15,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Nintendo - SNES / SFC (bsnes 2014 Accuracy) v094 (Accuracy)</summary>
-		<description lang="en_GB">Libretro fork of bSNES. As close to upstream as possible.
-
-The &#34;Accuracy&#34; profile focuses on accuracy at the cost of performance.
-
-Supported files: .sfc, .smc, .bml</description>
+		<description lang="en_GB">A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The &#34;Accuracy&#34; profile focuses on accuracy at the cost of performance.</description>
+		<disclaimer>In loving memory of Near / Byuu</disclaimer>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.bsnes2014-accuracy</source>
