@@ -23,4 +23,3 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The &#34;Accuracy&#34; profile focuses on accuracy at the cost of performance."
 msgstr ""
-
