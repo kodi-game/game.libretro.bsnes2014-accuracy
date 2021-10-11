@@ -22,7 +22,7 @@ msgid "Nintendo - SNES / SFC (bsnes 2014 Accuracy) v094 (Accuracy)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The &#34;Accuracy&#34; profile focuses on accuracy at the cost of performance."
+msgid "A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The \"Accuracy\" profile focuses on accuracy at the cost of performance."
 msgstr "bSNES 的 libretro 分支。尽可能接近原始项目。[CR][CR]“精确度”配置文件关注以性能为代价的精确度。"
 
 msgctxt "Addon Disclaimer"
