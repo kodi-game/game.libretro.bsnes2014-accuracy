@@ -23,7 +23,7 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The [I]Accuracy[/I] profile focuses on accuracy at the cost of performance."
-msgstr "bSNES의 libretro 포크. 최대한 업스트림에 가깝습니다.[CR][CR]&#34;정확도&#34; 프로필은 성능보다 정확성에 중점을 둡니다."
+msgstr "bSNES의 libretro 포크. 최대한 업스트림에 가깝습니다.[CR][CR]\"정확도\" 프로필은 성능보다 정확성에 중점을 둡니다."
 
 msgctxt "Addon Disclaimer"
 msgid "In loving memory of Near / Byuu"
