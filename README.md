@@ -15,7 +15,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.bsnes2014-accuracy/resources/icon.png)
+![Nintendo - SNES / SFC (bsnes 2014 Accuracy) icon](game.libretro.bsnes2014-accuracy/resources/icon.png)
 
 ### Fanart
 
@@ -23,9 +23,9 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.bsnes2014-accuracy/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.bsnes2014-accuracy/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.bsnes2014-accuracy/resources/screenshot-03.jpg)
+![Nintendo - SNES / SFC (bsnes 2014 Accuracy) screenshot](game.libretro.bsnes2014-accuracy/resources/screenshot-01.jpg)
+![Nintendo - SNES / SFC (bsnes 2014 Accuracy) screenshot](game.libretro.bsnes2014-accuracy/resources/screenshot-02.jpg)
+![Nintendo - SNES / SFC (bsnes 2014 Accuracy) screenshot](game.libretro.bsnes2014-accuracy/resources/screenshot-03.jpg)
 
 ### Disclaimer
 
