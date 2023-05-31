@@ -27,6 +27,7 @@
 		<summary lang="da_DK">Nintendo - SNES / SFC (bsnes 2014 Accuracy)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC (bsnes 2014 Accuracy)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (bsnes 2014 Preciso)</summary>
+		<summary lang="zh_CN">任天堂 - SNES / SFC（bsnes 2014 精度）</summary>
 		<description lang="da_DK">En libretro-fork af bSNES. Så tæt på upstream som muligt.[CR][CR]Profilen [I]Nøjagtighed[/I] fokuserer på nøjagtighed på bekostning af ydeevne.</description>
 		<description lang="de_DE">Eine libretro-Fork von bSNES. So nah am Vorbild wie möglich.[CR][CR]Das Profil [I]Genauigkeit[/I] zielt auf Präzision auf Kosten der Leistung.</description>
 		<description lang="en_GB">A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The [I]Accuracy[/I] profile focuses on accuracy at the cost of performance.</description>
