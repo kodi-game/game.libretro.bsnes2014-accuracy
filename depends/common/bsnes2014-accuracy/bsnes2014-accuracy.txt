@@ -1,1 +1,1 @@
-bsnes2014-accuracy https://github.com/libretro/bsnes2014/archive/78dc66f8c09dc0117d55ee4249186674385386e5.tar.gz
+bsnes2014-accuracy https://github.com/libretro/bsnes2014/archive/a9c12bad40ad9a7a5fa0139a25a10f1c24d56bb2.tar.gz
