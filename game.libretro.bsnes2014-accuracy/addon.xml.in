@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.bsnes2014-accuracy"
 		name="Nintendo - SNES / SFC (bsnes 2014 Accuracy)"
-		version="0.94.0.22"
+		version="0.94.0.23"
 		provider-name="Near">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
