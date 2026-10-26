@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.bsnes2014-accuracy"
 		name="Nintendo - SNES / SFC (bsnes 2014 Accuracy)"
-		version="0.94.0.29"
+		version="0.94.0.30"
 		provider-name="Near">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -19,6 +19,7 @@
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
 		<libretro_core>bsnes2014_accuracy_libretro</libretro_core>
+		<savestate_features>serialized</savestate_features>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv3</license>
